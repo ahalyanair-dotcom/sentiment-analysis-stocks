@@ -3,5 +3,5 @@ A machine learning project for training different models to classify news as Pos
 ## 🚀 Features
 - Text cleaning & preprocessing
 - TF-IDF or embeddings for vectorization
-- Multiple ML models
+- Building multiple ML models for evaluation  
 - Evaluation metrics: accuracy, precision, recall, F1
